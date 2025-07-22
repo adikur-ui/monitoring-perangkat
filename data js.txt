@@ -1,0 +1,11 @@
+const dataSiswa = [
+  {
+    nama: "Adelia Simarg",
+    nis: "10.24.1776",
+    kelas: "X-Farmasi 1",
+    mapel: "Informatika",
+    tugas: "Laporan",
+    tanggal: "2025-07-15",
+    status: "Lengkap"
+  }
+];
